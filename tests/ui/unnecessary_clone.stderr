@@ -74,3 +74,5 @@ error: called `cloned().collect()` on a slice to create a `Vec`. Calling `to_vec
    |
    = note: `-D iter-cloned-collect` implied by `-D warnings`
 
+error: aborting due to 10 previous errors
+
